@@ -1,0 +1,7 @@
+서버 만들기
+
+vmware 네트워크 설정 : https://m.blog.naver.com/urasima76/110106676351
+
+dns 서버 만들기 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=rufgksdb&logNo=221484166452
+
+서버 올인원 : https://blanche-star.tistory.com/entry/%EA%B7%B8%EB%88%84%EB%B3%B4%EB%93%9C5-%EC%84%A4%EC%B9%98php7-mysql8?category=838270
